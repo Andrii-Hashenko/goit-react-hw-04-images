@@ -1,7 +1,5 @@
 import styled from 'styled-components';
 
-//  * Стили компонента ImageGallery
-
 export const ImageGallery = styled.ul`
   display: grid;
   max-width: calc(100vw - 48px);

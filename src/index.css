@@ -28,9 +28,6 @@ img {
   height: auto;
 }
 
-/*
- * Стили компонента App
- */
 .App {
   display: grid;
   grid-template-columns: 1fr;
